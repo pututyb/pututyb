@@ -12,7 +12,9 @@ _______
 
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=pututyb&theme=default&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" width="300" height="200"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=pututyb&theme=default&hide_border=false" alt="GitHub Streak Stats" width="330" height="200"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pututyb&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="340" height="200">
+![](https://github-readme-stats.vercel.app/api?username=pututyb&theme=default&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pututyb&theme=default&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pututyb&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
