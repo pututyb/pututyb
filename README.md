@@ -6,8 +6,7 @@ In addition to my passion for programming, I enjoy keeping up-to-date with new t
 _______
 
 # Languages and Tools
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> &nbsp; <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> &nbsp; <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
-
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pututyb&theme=default&hide_border=false&include_all_commits=true&count_private=true)
