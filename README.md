@@ -1,14 +1,12 @@
 # 💫 About Me:
-<h4>I'm Putut Yusri Bahtiar.<br>
-I am a Software Mobile Developer specializing in iOS development. Although I don't have any experience in the industry yet, I am passionate about mobile application development and eager to contribute my skills and knowledge to the field.
-
-I have completed several mobile application development courses and worked on personal projects to improve my development skills
-
-In addition to my passion for programming, I enjoy keeping up-to-date with new technologies and trends</h4>
+I'm Putut Yusri Bahtiar.<br>
+I am a Software Mobile Developer specializing in iOS development. Although I don't have any experience in the industry yet, I am passionate about mobile application development and eager to contribute my skills and knowledge to the field.<br><br>
+I have completed several mobile application development courses and worked on personal projects to improve my development skills.<br><br>
+In addition to my passion for programming, I enjoy keeping up-to-date with new technologies and trends
 _______
 
 # Languages and Tools
-<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> 
+<img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" /> &nbsp; <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg" /> &nbsp; <img height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" />
 
 
 # 📊 GitHub Stats:
